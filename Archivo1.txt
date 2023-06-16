@@ -1,2 +1,3 @@
 Este es el archivo 1
 Hago cambios en archivo1
+Modifico el archivo1 desde el repositorio copiado
